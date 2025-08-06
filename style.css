@@ -1,9 +1,12 @@
 body {
   font-family: Arial, sans-serif;
-  background: #fff8f0;
+  background: url('https://t3.ftcdn.net/jpg/02/53/18/66/360_F_253186684_tlnIDDOlwThwruv6HV92g5L4XISPCGrv.jpg') no-repeat center center fixed;
+  background-size: cover;
   margin: 0;
   padding: 20px;
+  color: #fff;
 }
+
 
 .container {
   max-width: 700px;
